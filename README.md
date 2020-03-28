@@ -28,12 +28,12 @@ You can read more about this project & its history [here](https://h5bp.org/Front
 
 The project is currently maintained by:
 
-- [@roblarsen](https://github.com/roblarsen)
-- [@vvscode](https://github.com/vvscode)
+- [@neilblaze](https://github.com/neilblaze)
+- [@x3nosiz](https://github.com/x3nosiz)
 
 ## Contributors
 
-Feeling inspired? Check our [Contributing guide](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/.github/CONTRIBUTING.md) to get started!
+Feeling inspired? Check our [Contributing guide](https://github.com/Git-Tutor/FE-WEB-DEV-Interview-Questions/blob/master/.github/CONTRIBUTING.md) to get started!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -180,10 +180,3 @@ Feeling inspired? Check our [Contributing guide](https://github.com/h5bp/Front-e
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## License
-
-[Copyright (c) Contributors of the Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
