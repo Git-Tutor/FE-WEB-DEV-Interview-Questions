@@ -51,3 +51,21 @@ Feeling inspired? Help us register more and more questions regarding this :)
   </tr>
 </table>
 
+<br>
+<p> Someone made a cool list with links of stuff to learn for whole Web dev.<br>
+
+The topics are :-<br>
+1. Fundamentals<br>
+2. Accessibility<br>
+3. Web Components<br>
+4. Progressive webapps<br>
+5. Build Tools<br>
+6. Frameworks & libraries<br>
+7. Testing<br>
+8. Architecture & paradigms<br>
+9. Team collaboration<br>
+10. Design & UX<br>
+11. The modern web<br>
+12. Algorithms & data structures<br>
+13. Databases & servers<br>
+</p>
