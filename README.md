@@ -29,28 +29,6 @@ The project is currently maintained by:
 - [@neilblaze](https://github.com/neilblaze)
 - [@x3nosiz](https://github.com/x3nosiz)
 
-## Contributors
-
-Feeling inspired? Help us register more and more questions regarding this :)
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-    <tr>
-    <td align="center"><a href="https://github.com/adrienchretien"><img src="https://avatars2.githubusercontent.com/u/1096295?v=4" width="120px;" alt="Adrien CHRETIEN"/><br /><sub><b>Adrien CHRETIEN</b></sub></a><br /><a href="#translation-adrienchretien" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/shnere"><img src="https://avatars1.githubusercontent.com/u/780497?v=4" width="120px;" alt="Alan Rodríguez"/><br /><sub><b>Alan Rodríguez</b></sub></a><br /><a href="#translation-shnere" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://harisadam.com"><img src="https://avatars0.githubusercontent.com/u/797521?v=4" width="120px;" alt="Adam Haris"/><br /><sub><b>Adam Haris</b></sub></a><br /><a href="#translation-harisadam" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://toshimaru.net/"><img src="https://avatars0.githubusercontent.com/u/803398?v=4" width="120px;" alt="Toshimaru"/><br /><sub><b>Toshimaru</b></sub></a><br /><a href="#translation-toshimaru" title="Translation">🌍</a></td>
-    <td align="center"><a href="http://shankarcabus.com.br"><img src="https://avatars3.githubusercontent.com/u/1202421?v=4" width="120px;" alt="Shankar Cabus"/><br /><sub><b>Shankar Cabus</b></sub></a><br /><a href="#translation-shankarcabus" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/lukasz-jakub-adamczuk"><img src="https://avatars0.githubusercontent.com/u/1239848?v=4" width="120px;" alt="Ash"/><br /><sub><b>Ash</b></sub></a><br /><a href="#translation-lukasz-jakub-adamczuk" title="Translation">🌍</a></td>
-  </tr>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/vvanchuk/"><img src="https://avatars1.githubusercontent.com/u/6904368?v=4" width="120px;" alt="Vasiliy Vanchuk"/><br /><sub><b>Vasiliy Vanchuk</b></sub></a><br /><a href="#ideas-vvscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#review-vvscode" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-vvscode" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
 <br>
 <p> Someone made a cool list with links of stuff to learn for whole Web dev.<br>
 
